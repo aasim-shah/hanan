@@ -112,7 +112,9 @@ nav{
    background-color: #ffffff;
 }
 
-
+ul{
+    list-style: none;
+}
 
 
 
